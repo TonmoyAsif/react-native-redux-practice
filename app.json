@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "redux-practice",
+    "name": "Redux Practice",
     "slug": "redux-practice",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/tonmoy-asif/react-native-redux-practice"
   }
 }
